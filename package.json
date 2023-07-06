@@ -1,0 +1,31 @@
+{
+  "name": "mongoose_aggregation",
+  "version": "1.0.0",
+  "description": "this is a tutorial on how to use mongoose aggregation for data manipulations",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chibuike07/mongoose_aggregation.git"
+  },
+  "keywords": [
+    "mongoose aggregation",
+    "nodejs aggregation",
+    "mongodb aggregation",
+    "aggregation stages"
+  ],
+  "author": "Chime Princewill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chibuike07/mongoose_aggregation/issues"
+  },
+  "homepage": "https://github.com/chibuike07/mongoose_aggregation#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.1"
+  }
+}
