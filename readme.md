@@ -231,6 +231,6 @@ The snippet above gets us the authors \_id , names, books of the individual aut
 **Mongoose aggregation** is a powerful feature that allows you to perform complex data manipulations and transformations on MongoDB collections. It is helpful for advanced data analysis, reporting, and data processing tasks.
 
 I believe that going forward, you will start using **Mongoose aggregate** for querying data from the mongoDB database.
-If this article was helpful to you, kindly clap, like, comment, share and follow me on my [Linkedin](https://medium.com/r/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fchime-princewill-3a2b1b192%2F) and [Medium](https://medium.com/r/?url=https%3A%2F%2Fprincewillchime43.medium.com%2F) to see more of my articles. Click the following link to access the [source code](https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2Fchibuike07%2Fmongoose_aggregation).
+If this article was helpful to you, kindly clap, like, comment, share and follow me on my [Linkedin](https://medium.com/r/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fchime-princewill-3a2b1b192%2F) and [Medium](https://medium.com/r/?url=https%3A%2F%2Fprincewillchime43.medium.com%2F) to see more of my articles. Click the following link to access the [source code](https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2Fchibuike07%2Fmongoose_aggregation) and kindly give me a **_star_**.
 
 Feel free to drop any suggestions/comments. If you have a topic based on the Javascript/React.js ecosystem, kindly reach out and I'd be glad to write on it. Thanks
